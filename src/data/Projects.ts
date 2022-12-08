@@ -7,7 +7,7 @@ const projects = [
     descriptionES:
       'Aplicación de escritorio desarrollada en Electron.js y React.js para la administración de un Gimnasio.',
     tools: ['Node.js', 'Electron.js', 'React.js', 'Sass', 'Semantic UI', 'JWT', 'Redux'],
-    deploy: '',
+    deploy: 'https://youtu.be/XUMqTWKI87A',
     repository: 'https://github.com/LautaroD/electron-app-tongym',
     image: 'https://i.ibb.co/R2nBfM3/desktop-App.png',
     category: 'Full stack',
